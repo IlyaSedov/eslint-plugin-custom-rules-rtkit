@@ -1,5 +1,12 @@
 {
-  "name": "eslint-plugin-omnichat",
+  "name": "eslint-plugin-custom-rules-rtkit",
   "version": "1.0.0",
-  "main": "index.js"
+  "main": "index.js",
+  "author": "Ilya Sedov",
+  "description": "Static AST checker.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ]
 }
