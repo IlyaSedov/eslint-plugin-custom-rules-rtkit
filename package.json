@@ -8,5 +8,7 @@
     "eslint",
     "eslintplugin",
     "eslint-plugin"
-  ]
+  ],
+  "license": "MIT"
+  
 }
