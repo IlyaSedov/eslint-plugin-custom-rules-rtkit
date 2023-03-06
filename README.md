@@ -3,7 +3,7 @@
 A plugin with a custom set of rules for static AST checking.
 
 **Other Languages:**
-[Russian](https://github.com/ari-os310/eslint-plugin-custom-rules-rtkit/blob/HEAD/translations/README.mx.md)
+[Russian](https://github.com/IlyaSedov/eslint-plugin-custom-rules-rtkit/tree/add-readme/translation)
 
 ## Why?
 
