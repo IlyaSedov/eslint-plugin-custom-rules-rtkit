@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-custom-rules-rtkit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "author": "Ilya Sedov",
   "description": "Static AST checker.",
@@ -10,5 +10,4 @@
     "eslint-plugin"
   ],
   "license": "MIT"
-  
 }
